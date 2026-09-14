@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Taoman Groupe">
+  <defs>
+    <linearGradient id="tg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="56" fill="url(#tg)"/>
+  <path d="M48 150h28l18-42h68l18 42h28v36H48v-36z" fill="#fff" opacity=".95"/>
+  <circle cx="88" cy="186" r="18" fill="#fff"/>
+  <circle cx="168" cy="186" r="18" fill="#fff"/>
+  <circle cx="88" cy="186" r="7" fill="#b45309"/>
+  <circle cx="168" cy="186" r="7" fill="#b45309"/>
+  <path d="M96 108h64" stroke="#fff" stroke-width="10" stroke-linecap="round" opacity=".7"/>
+</svg>
